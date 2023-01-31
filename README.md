@@ -1,4 +1,4 @@
-# centos6docker
+# Centos 6 In Docker
 Docker Image for Centos6 and PHP7.4
 
 # Platform
